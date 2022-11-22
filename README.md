@@ -1,0 +1,2 @@
+# BankApp
+ Banka otomasyonu
