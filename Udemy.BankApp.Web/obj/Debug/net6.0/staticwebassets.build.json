@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "9+rmENh4CZgD5rjr3B8PDv1wtyvhENfUU7GHWzvRFxI=",
+  "Source": "Udemy.BankApp.Web",
+  "BasePath": "_content/Udemy.BankApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Udemy.BankApp.Web\\wwwroot",
+      "Source": "Udemy.BankApp.Web",
+      "ContentRoot": "C:\\Users\\Onur\\source\\repos\\Udemy.BankApp\\Udemy.BankApp.Web\\wwwroot\\",
+      "BasePath": "_content/Udemy.BankApp.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Onur\\source\\repos\\Udemy.BankApp\\Udemy.BankApp.Web\\wwwroot\\css\\style.css",
+      "SourceId": "Udemy.BankApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Onur\\source\\repos\\Udemy.BankApp\\Udemy.BankApp.Web\\wwwroot\\",
+      "BasePath": "_content/Udemy.BankApp.Web",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
